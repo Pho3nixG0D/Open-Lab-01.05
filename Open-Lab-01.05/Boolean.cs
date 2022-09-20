@@ -6,8 +6,7 @@ namespace Open_Lab_01._05
     {
         public bool Reverse(bool value)
         {
-            return Reverse(value);
-            throw new NotImplementedException();
+            return !value;
         }
     }
 }
